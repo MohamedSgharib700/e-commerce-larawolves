@@ -8,10 +8,15 @@
 </p>
 
 ## E-Commerce Project (LaraWolves)
+<ul>
+<li>1- clone the repo.</li>
+<li>2- run composer update to install dependencies.</li>
+<li>3- start coding</li>
+<li>we also need to run npm install in some situations</li>
+</ul>
 
-1- clone the repo.
-2- run composer update to install dependencies.
-3- start coding
+
+
 
 
 ## License
