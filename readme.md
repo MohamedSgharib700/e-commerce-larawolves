@@ -9,6 +9,10 @@
 
 ## E-Commerce Project (LaraWolves)
 
+1- clone the repo.
+2- run composer update to install dependencies.
+3- start coding
+
 
 ## License
 
