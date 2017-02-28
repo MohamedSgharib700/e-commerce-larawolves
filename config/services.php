@@ -35,4 +35,16 @@ return [
         'secret' => env('STRIPE_SECRET'),
     ],
 
+    'facebook' => [
+        'client_id' => '1224941184267835',
+        'client_secret' => 'b4e3affe81322c4f6e70933dfdaf378a',
+        'redirect' => 'http://e-commerce.dev/auth/facebook/callback',
+    ],
+
+    'twitter' => [
+        'client_id' => 'tNdgALSlcRn8V4HObm4Ijyq67',
+        'client_secret' => 'GcOvOhZGmIkSfPfMs0vumjYWjmiTPYb8QVkPK1t10YRlHgZTqg',
+        'redirect' => 'http://e-commerce.dev/auth/twitter/callback',
+    ],
+
 ];

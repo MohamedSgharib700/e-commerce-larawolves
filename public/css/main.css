@@ -1,0 +1,120 @@
+@import url(http://fonts.googleapis.com/css?family=Righteous);
+@import url(https://fonts.googleapis.com/css?family=Baloo+Thambi|Poppins);
+
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+    margin: 0;
+    padding: 0;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    font-family: 'Righteous', serif;
+
+}
+
+.site-title {
+    float: left
+}
+.site-title h1 {
+    font-size: 34px;
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+    color: white;
+}
+.side-nav a {
+    padding: 0 16px;
+    color: darkred;
+}
+.side-nav a:hover {
+    background: 0 0
+}
+.panel-control-right {
+    float: right;
+    font-size: 16px;
+    line-height: 16px
+}
+.panel-control-right .sidenav-control-right i {
+    color: #fff;
+    background: darkred;
+    padding: 8px;
+    border-radius: 5px
+}
+.panel-control-right ul {
+    padding: 10px 0
+}
+.panel-control-right ul li {
+    border-bottom: dotted 1px #eee
+}
+.panel-control-right ul li a {
+    font-size: 15px
+}
+.panel-control-right .side-nav li a i {
+    margin-right: 5px;
+    color: darkred;
+}
+.panel-control-right .side-nav .collapsible-header {
+    font-size: 15px;
+    color: darkred;
+}
+.panel-control-right .side-nav .collapsible-header span i {
+    float: right;
+    text-align: right;
+    font-size: 12px
+}
+.panel-control-right .side-nav .collapsible-header:hover {
+    background: 0 0
+}
+.panel-control-right .side-nav .collapsible-header.active {
+    border-bottom: dotted 1px #ddd
+}
+.panel-control-right .side-nav li.active {
+    border-bottom: solid 1px #eee;
+    background: 0 0
+}
+.panel-control-right .side-nav .collapsible-header i {
+    font-size: 16px;
+    color: darkred;
+    width: 24px;
+    margin-right: 5px;
+    text-align: left
+}
+
+.panel-control-right .collapsible-body ul {
+    padding: 0;
+    margin: 0
+}
+.panel-control-right .collapsible-body ul li a {
+    padding-left: 45px;
+    height: 40px;
+    line-height: 40px
+}
+.panel-control-right .categories-in li {
+    line-height: 40px
+}
+.panel-control-right .categories-in .collapsible-header {
+    padding-left: 45px
+}
+.panel-control-right .categories-in .collapsible-body ul li a {
+    height: 36px;
+    line-height: 36px;
+    padding-left: 60px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
